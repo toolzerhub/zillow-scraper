@@ -1,0 +1,278 @@
+{
+  "zpid": "48795376",
+  "price_history": [
+    {
+      "date": "2026-10-15",
+      "event": "Listed for sale",
+      "price": 1025000,
+      "price_per_sqft": 569,
+      "source": "NWMLS as distributed by MLS GRID",
+      "is_rental": false
+    },
+    {
+      "date": "2016-10-24",
+      "event": "Sold",
+      "price": 651000,
+      "price_per_sqft": 362,
+      "source": "NWMLS as distributed by MLS GRID",
+      "is_rental": false
+    },
+    {
+      "date": "2008-09-12",
+      "event": "Sold",
+      "price": 430000,
+      "price_per_sqft": 239,
+      "source": "NWMLS as distributed by MLS GRID",
+      "is_rental": false
+    },
+    {
+      "date": "2008-07-30",
+      "event": "Listed for sale",
+      "price": 435000,
+      "price_per_sqft": 242,
+      "source": "Owner",
+      "is_rental": false
+    },
+    {
+      "date": "2004-04-16",
+      "event": "Sold",
+      "price": 330500,
+      "price_per_sqft": 184,
+      "source": "NWMLS as distributed by MLS GRID",
+      "is_rental": false
+    },
+    {
+      "date": "1995-01-06",
+      "event": "Sold",
+      "price": 160000,
+      "price_per_sqft": 89,
+      "source": "Public Record",
+      "is_rental": false
+    }
+  ],
+  "tax_history": [
+    {
+      "year": 2025,
+      "tax_paid": 10584.64,
+      "assessed_value": 985000
+    },
+    {
+      "year": 2024,
+      "tax_paid": 9114.19,
+      "assessed_value": 906000
+    },
+    {
+      "year": 2023,
+      "tax_paid": 8362.83,
+      "assessed_value": 843000
+    },
+    {
+      "year": 2022,
+      "tax_paid": 7954.88,
+      "assessed_value": 895000
+    },
+    {
+      "year": 2021,
+      "tax_paid": 7254.6,
+      "assessed_value": 748000
+    },
+    {
+      "year": 2020,
+      "tax_paid": 6976.75,
+      "assessed_value": 683000
+    },
+    {
+      "year": 2019,
+      "tax_paid": 6851.27,
+      "assessed_value": 680000
+    },
+    {
+      "year": 2018,
+      "tax_paid": 6107.55,
+      "assessed_value": 673000
+    },
+    {
+      "year": 2017,
+      "tax_paid": 6211.62,
+      "assessed_value": 598000
+    },
+    {
+      "year": 2016,
+      "tax_paid": 4286.09,
+      "assessed_value": 535000
+    },
+    {
+      "year": 2015,
+      "tax_paid": 4286.09,
+      "assessed_value": 502000
+    },
+    {
+      "year": 2014,
+      "tax_paid": 4286.09,
+      "assessed_value": 423000
+    },
+    {
+      "year": 2013,
+      "tax_paid": 4286.09,
+      "assessed_value": 364000
+    },
+    {
+      "year": 2012,
+      "tax_paid": null,
+      "assessed_value": 352000
+    },
+    {
+      "year": 2011,
+      "tax_paid": null,
+      "assessed_value": 364000
+    },
+    {
+      "year": 2010,
+      "tax_paid": null,
+      "assessed_value": 370000
+    },
+    {
+      "year": 2009,
+      "tax_paid": null,
+      "assessed_value": 370000
+    },
+    {
+      "year": 2007,
+      "tax_paid": null,
+      "assessed_value": 354000
+    },
+    {
+      "year": 2006,
+      "tax_paid": null,
+      "assessed_value": 335000
+    },
+    {
+      "year": 2005,
+      "tax_paid": null,
+      "assessed_value": 310000
+    },
+    {
+      "year": 2001,
+      "tax_paid": 2680.86,
+      "assessed_value": 225000
+    },
+    {
+      "year": 2000,
+      "tax_paid": 2463.46,
+      "assessed_value": 196000
+    }
+  ],
+  "schools": [
+    {
+      "name": "Genesee Hill Elementary School",
+      "rating": 9,
+      "grades": "K-5",
+      "distance_miles": 0.1,
+      "url": "https://www.greatschools.org/washington/seattle/1608-Genesee-Hill-Elementary-School/"
+    },
+    {
+      "name": "Madison Middle School",
+      "rating": 9,
+      "grades": "6-8",
+      "distance_miles": 0.7,
+      "url": "https://www.greatschools.org/washington/seattle/1582-Madison-Middle-School/"
+    },
+    {
+      "name": "West Seattle High School",
+      "rating": 7,
+      "grades": "9-12",
+      "distance_miles": 1.0,
+      "url": "https://www.greatschools.org/washington/seattle/1617-West-Seattle-High-School/"
+    }
+  ],
+  "nearby_homes": [
+    {
+      "zpid": "48795377",
+      "url": "https://www.zillow.com/homedetails/4142-52nd-Ave-SW-Seattle-WA-98116/48795377_zpid/",
+      "status": "SOLD",
+      "address": "4142 52nd Ave SW",
+      "city": "Seattle",
+      "price": 1365000,
+      "beds": 3,
+      "baths": 3,
+      "sqft": 2660
+    },
+    {
+      "zpid": "48795373",
+      "url": "https://www.zillow.com/homedetails/5108-SW-Genesee-St-Seattle-WA-98116/48795373_zpid/",
+      "status": "SOLD",
+      "address": "5108 SW Genesee St",
+      "city": "Seattle",
+      "price": 850000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 950
+    },
+    {
+      "zpid": "48795370",
+      "url": "https://www.zillow.com/homedetails/4145-51st-Ave-SW-Seattle-WA-98116/48795370_zpid/",
+      "status": "SOLD",
+      "address": "4145 51st Ave SW",
+      "city": "Seattle",
+      "price": 1299000,
+      "beds": 3,
+      "baths": 4,
+      "sqft": 2643
+    },
+    {
+      "zpid": "440581243",
+      "url": "https://www.zillow.com/homedetails/4141-51st-Ave-SW-Seattle-WA-98116/440581243_zpid/",
+      "status": "SOLD",
+      "address": "4141 51st Ave SW",
+      "city": "Seattle",
+      "price": 719000,
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1093
+    },
+    {
+      "zpid": "443217694",
+      "url": "https://www.zillow.com/homedetails/4143-51st-Ave-SW-Seattle-WA-98116/443217694_zpid/",
+      "status": "SOLD",
+      "address": "4143 51st Ave SW",
+      "city": "Seattle",
+      "price": 730000,
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1328
+    },
+    {
+      "zpid": "48795211",
+      "url": "https://www.zillow.com/homedetails/4402-52nd-Ave-SW-Seattle-WA-98116/48795211_zpid/",
+      "status": "SOLD",
+      "address": "4402 52nd Ave SW",
+      "city": "Seattle",
+      "price": 1289000,
+      "beds": 4,
+      "baths": 4,
+      "sqft": 2084
+    },
+    {
+      "zpid": "455956056",
+      "url": "https://www.zillow.com/homedetails/5119-SW-Genesee-St-Seattle-WA-98116/455956056_zpid/",
+      "status": "SOLD",
+      "address": "5119 SW Genesee St",
+      "city": "Seattle",
+      "price": 795000,
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1092
+    },
+    {
+      "zpid": "455798732",
+      "url": "https://www.zillow.com/homedetails/5121-SW-Genesee-St-Seattle-WA-98116/455798732_zpid/",
+      "status": "SOLD",
+      "address": "5121 SW Genesee St",
+      "city": "Seattle",
+      "price": 849000,
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1315
+    }
+  ]
+}

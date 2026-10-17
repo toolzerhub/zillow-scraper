@@ -1,0 +1,272 @@
+{
+  "zpid": "48795376",
+  "url": "https://www.zillow.com/homedetails/4148-52nd-Ave-SW-Seattle-WA-98116/48795376_zpid/",
+  "status": "FOR_SALE",
+  "home_type": "SINGLE_FAMILY",
+  "address": {
+    "street": "4148 52nd Avenue SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98116"
+  },
+  "price": 1025000,
+  "currency": "USD",
+  "zestimate": 1006300,
+  "rent_zestimate": 4700,
+  "last_sold_price": 651000,
+  "last_sold_date": "2016-10-24",
+  "price_change": null,
+  "price_change_at": null,
+  "beds": 3,
+  "baths": 2,
+  "sqft": 1800,
+  "lot_sqft": 5750,
+  "year_built": 1953,
+  "hoa_fee_monthly": null,
+  "tax_annual": 10584.64,
+  "tax_rate_pct": null,
+  "latitude": 47.565243,
+  "longitude": -122.39846,
+  "description": "Welcome to this light-filled MCM gem in the heart of Genesee, just one block from Genesee Hill Elementary! Thoughtfully  designed for effortless indoor-outdoor living, the stunning living room features french doors, a cozy gas fireplace, and  abundant natural light, while multiple sliding doors on main level open to the deck and beautifully landscaped grounds.  The fully fenced yard is a gardener’s dream, complete with a flagstone patio, Mt. Rainier views, and hot tub—perfect for  relaxing under the stars. The finished lower level offers a spacious family room with a second gas fireplace, bedroom,  utility room, and ample storage. Car enthusiasts, makers, and hobbyists will love the attached 1-car garage plus RARE  detached 2-car garage with alley access and plenty of room for a workshop. Fresh interior paint, new sewer line & hot  water tank in 2026. Incredible location near Schmitz Park Reserve with trails to Alki Beach, plus an easy stroll to Alaska  Junction’s beloved shops, dining, and weekend farmers market. A truly special West Seattle home!",
+  "mls_id": "2594350",
+  "listed_at": null,
+  "days_on_zillow": null,
+  "page_views": null,
+  "favorites": null,
+  "listing_agent": null,
+  "broker": "Every Door Real Estate",
+  "mls_name": "NWMLS as distributed by MLS GRID",
+  "facts": {
+    "year_built": 1953,
+    "parking_capacity": 3,
+    "has_garage": true
+  },
+  "photo_count": 40,
+  "photos": [
+    "https://photos.zillowstatic.com/fp/08bac070dd198d8751a216727b18e1d2-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/ae184d2044fe75e6e40cad269a9957f3-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/29bf18230923cb0aa9a22a0c8e248f7f-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/4f129264016e700aaf673e24115bf02b-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/c97c1d6633f80c7aa5da595270196f6a-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/a501389f02c3342827d0d2fbb1e3c932-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/f2316244173c29e98cc26ab4c5f43be4-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/1e1aed82c8b10386f5b3b7dfb3be27cf-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/3a94403fe61e1c2e12721d7fd6e81cd6-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/3284ea68f188e42d8e8f961ddcaf9f47-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/a2704baf72a769bf828609c94e222f92-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/41b18f57c2e19f8796943f63e6328c8f-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/c0009cf6f09a99dac52c046ee9b60728-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/c52a3e79a01f043999c6dbf798f61e95-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/687c5c36add35c9cd414cfdbc5aeed55-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/251ad7716c5c80515ff2211a74d165ec-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/1982d1622d4771d833ff4ccc6ad073f8-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/4a399762562dbcaf0a899e5275a9b612-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/1d5eb04ffe0017d1efe97fa628042c1c-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/867d09cea8ba6aa0c17c33f6ccd92092-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/5bea932fa07ed45a7cbba1d1bd97f937-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/0bb9b47b9b03d2403e20d8eeab266df9-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/38d94569eb34a5c3adccaad7f0ec6c6a-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/b0f3f4414eededf2d1d9cde25def7a33-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/36af23f8219af4053fc9c5b4562c8db9-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/36cf6f61e938a9f4f929e983502adf31-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/67a03d6f8c8efe1596521625aafc0d1f-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/157caf5fcc66113ccbc5588d2a9ae57e-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/59de39e05fbdf03d600a8804d223bd74-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/276d9f4fc180ff09e51ccb56ff787c50-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/e175f6daa9a61cb93e4c5a5c41057f36-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/d1518d995fddafda8d41b98841642e4f-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/96924f4d8571266c0f8b60ef4e84ac29-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/32fa4267d95f1fee277f36a8031e6c50-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/95b69c52fcbb16c1e7fe61345e83b7cd-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/72e47fbb2208d629f3dff08fc16b1fd0-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/81a641930cc4cd35a18bf6c4eef18017-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/55b3e0f36a48f64c6628224ae23e1e9d-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/d18b6e8eb37c10d29ce998b76536cc85-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/e8c919246bbf6c014e313166fab29e37-cc_ft_1536.jpg"
+  ],
+  "price_history": [
+    {
+      "date": "2026-10-15",
+      "event": "Listed for sale",
+      "price": 1025000,
+      "price_per_sqft": 569,
+      "source": "NWMLS as distributed by MLS GRID",
+      "is_rental": false
+    },
+    {
+      "date": "2016-10-24",
+      "event": "Sold",
+      "price": 651000,
+      "price_per_sqft": 362,
+      "source": "NWMLS as distributed by MLS GRID",
+      "is_rental": false
+    },
+    {
+      "date": "2008-09-12",
+      "event": "Sold",
+      "price": 430000,
+      "price_per_sqft": 239,
+      "source": "NWMLS as distributed by MLS GRID",
+      "is_rental": false
+    },
+    {
+      "date": "2008-07-30",
+      "event": "Listed for sale",
+      "price": 435000,
+      "price_per_sqft": 242,
+      "source": "Owner",
+      "is_rental": false
+    },
+    {
+      "date": "2004-04-16",
+      "event": "Sold",
+      "price": 330500,
+      "price_per_sqft": 184,
+      "source": "NWMLS as distributed by MLS GRID",
+      "is_rental": false
+    },
+    {
+      "date": "1995-01-06",
+      "event": "Sold",
+      "price": 160000,
+      "price_per_sqft": 89,
+      "source": "Public Record",
+      "is_rental": false
+    }
+  ],
+  "tax_history": [
+    {
+      "year": 2025,
+      "tax_paid": 10584.64,
+      "assessed_value": 985000
+    },
+    {
+      "year": 2024,
+      "tax_paid": 9114.19,
+      "assessed_value": 906000
+    },
+    {
+      "year": 2023,
+      "tax_paid": 8362.83,
+      "assessed_value": 843000
+    },
+    {
+      "year": 2022,
+      "tax_paid": 7954.88,
+      "assessed_value": 895000
+    },
+    {
+      "year": 2021,
+      "tax_paid": 7254.6,
+      "assessed_value": 748000
+    },
+    {
+      "year": 2020,
+      "tax_paid": 6976.75,
+      "assessed_value": 683000
+    },
+    {
+      "year": 2019,
+      "tax_paid": 6851.27,
+      "assessed_value": 680000
+    },
+    {
+      "year": 2018,
+      "tax_paid": 6107.55,
+      "assessed_value": 673000
+    },
+    {
+      "year": 2017,
+      "tax_paid": 6211.62,
+      "assessed_value": 598000
+    },
+    {
+      "year": 2016,
+      "tax_paid": 4286.09,
+      "assessed_value": 535000
+    },
+    {
+      "year": 2015,
+      "tax_paid": 4286.09,
+      "assessed_value": 502000
+    },
+    {
+      "year": 2014,
+      "tax_paid": 4286.09,
+      "assessed_value": 423000
+    },
+    {
+      "year": 2013,
+      "tax_paid": 4286.09,
+      "assessed_value": 364000
+    },
+    {
+      "year": 2012,
+      "tax_paid": null,
+      "assessed_value": 352000
+    },
+    {
+      "year": 2011,
+      "tax_paid": null,
+      "assessed_value": 364000
+    },
+    {
+      "year": 2010,
+      "tax_paid": null,
+      "assessed_value": 370000
+    },
+    {
+      "year": 2009,
+      "tax_paid": null,
+      "assessed_value": 370000
+    },
+    {
+      "year": 2007,
+      "tax_paid": null,
+      "assessed_value": 354000
+    },
+    {
+      "year": 2006,
+      "tax_paid": null,
+      "assessed_value": 335000
+    },
+    {
+      "year": 2005,
+      "tax_paid": null,
+      "assessed_value": 310000
+    },
+    {
+      "year": 2001,
+      "tax_paid": 2680.86,
+      "assessed_value": 225000
+    },
+    {
+      "year": 2000,
+      "tax_paid": 2463.46,
+      "assessed_value": 196000
+    }
+  ],
+  "schools": [
+    {
+      "name": "Genesee Hill Elementary School",
+      "rating": 9,
+      "grades": "K-5",
+      "distance_miles": 0.1,
+      "url": "https://www.greatschools.org/washington/seattle/1608-Genesee-Hill-Elementary-School/"
+    },
+    {
+      "name": "Madison Middle School",
+      "rating": 9,
+      "grades": "6-8",
+      "distance_miles": 0.7,
+      "url": "https://www.greatschools.org/washington/seattle/1582-Madison-Middle-School/"
+    },
+    {
+      "name": "West Seattle High School",
+      "rating": 7,
+      "grades": "9-12",
+      "distance_miles": 1.0,
+      "url": "https://www.greatschools.org/washington/seattle/1617-West-Seattle-High-School/"
+    }
+  ]
+}

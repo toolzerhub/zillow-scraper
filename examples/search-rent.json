@@ -1,0 +1,172 @@
+[
+  {
+    "zpid": null,
+    "url": "https://www.zillow.com/apartments/seattle-wa/vive-ballard/Cgx9LV/",
+    "status": "FOR_RENT",
+    "home_type": "APARTMENT_BUILDING",
+    "address": "1516 NW 51st St   Apt 503",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98107",
+    "price": 1519,
+    "price_max": 2208,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "zestimate": null,
+    "rent_zestimate": null,
+    "sold_date": null,
+    "days_on_zillow": null,
+    "building_name": "Vive Ballard",
+    "units": [
+      {
+        "beds": 0,
+        "rent_from": 1519
+      },
+      {
+        "beds": 1,
+        "rent_from": 1650
+      }
+    ],
+    "broker": null,
+    "latitude": 47.66593,
+    "longitude": -122.377045,
+    "image_url": "https://photos.zillowstatic.com/fp/efe4d16fc2790da09703762a04599791-p_e.jpg"
+  },
+  {
+    "zpid": null,
+    "url": "https://www.zillow.com/apartments/seattle-wa/kaye/Ckd9zD/",
+    "status": "FOR_RENT",
+    "home_type": "APARTMENT_BUILDING",
+    "address": "2208 4th Ave # 2509",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98121",
+    "price": 2568,
+    "price_max": 6867,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "zestimate": null,
+    "rent_zestimate": null,
+    "sold_date": null,
+    "days_on_zillow": null,
+    "building_name": "Kaye",
+    "units": [
+      {
+        "beds": 0,
+        "rent_from": 2573
+      },
+      {
+        "beds": 1,
+        "rent_from": 2793
+      },
+      {
+        "beds": 2,
+        "rent_from": 5680
+      },
+      {
+        "beds": 3,
+        "rent_from": 6447
+      }
+    ],
+    "broker": null,
+    "latitude": 47.61503,
+    "longitude": -122.34274,
+    "image_url": "https://photos.zillowstatic.com/fp/c7f5df2efdf00fc217bfc27f3bd90c9c-p_e.jpg"
+  },
+  {
+    "zpid": null,
+    "url": "https://www.zillow.com/apartments/seattle-wa/helm-slu/BMmHrn/",
+    "status": "FOR_RENT",
+    "home_type": "APARTMENT_BUILDING",
+    "address": "602 Terry Ave  N  Apt 1278",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98109",
+    "price": 3465,
+    "price_max": 10850,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "zestimate": null,
+    "rent_zestimate": null,
+    "sold_date": null,
+    "days_on_zillow": null,
+    "building_name": "Helm SLU",
+    "units": [
+      {
+        "beds": 1,
+        "rent_from": 3470
+      },
+      {
+        "beds": 2,
+        "rent_from": 4655
+      }
+    ],
+    "broker": null,
+    "latitude": 47.625153,
+    "longitude": -122.336845,
+    "image_url": "https://photos.zillowstatic.com/fp/704173df7de62e0f114e8a1c2edc4319-p_e.jpg"
+  },
+  {
+    "zpid": null,
+    "url": "https://www.zillow.com/apartments/seattle-wa/contour-apartments/63fCvg/",
+    "status": "FOR_RENT",
+    "home_type": "APARTMENT_BUILDING",
+    "address": "3036 16th Ave  W  Apt 116",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98119",
+    "price": 1745,
+    "price_max": 1850,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "zestimate": null,
+    "rent_zestimate": null,
+    "sold_date": null,
+    "days_on_zillow": null,
+    "building_name": "Contour Apartments",
+    "units": [
+      {
+        "beds": 1,
+        "rent_from": 1945
+      }
+    ],
+    "broker": null,
+    "latitude": 47.647636,
+    "longitude": -122.37716,
+    "image_url": "https://photos.zillowstatic.com/fp/14922fbf2cd50123e55437c899888b47-p_e.jpg"
+  },
+  {
+    "zpid": null,
+    "url": "https://www.zillow.com/apartments/seattle-wa/lavie-at-queen-anne/5XjLM3/",
+    "status": "FOR_RENT",
+    "home_type": "APARTMENT_BUILDING",
+    "address": "229 Queen Anne Ave  N  Apt 211",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98109",
+    "price": 2000,
+    "price_max": 2275,
+    "beds": null,
+    "baths": null,
+    "sqft": null,
+    "zestimate": null,
+    "rent_zestimate": null,
+    "sold_date": null,
+    "days_on_zillow": null,
+    "building_name": "LaVie at Queen Anne",
+    "units": [
+      {
+        "beds": 1,
+        "rent_from": 2004
+      }
+    ],
+    "broker": null,
+    "latitude": 47.62069,
+    "longitude": -122.35712,
+    "image_url": "https://photos.zillowstatic.com/fp/9e8188f8a4d4967920f7af60f756999d-p_e.jpg"
+  }
+]
