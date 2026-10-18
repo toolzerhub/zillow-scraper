@@ -232,9 +232,11 @@ No. The [ToolzerHub API](https://toolzerhub.com/apis/zillow?utm_source=github&ut
 
 - [instagram-scraper](https://github.com/toolzerhub/instagram-scraper): public Instagram profiles, posts, comments and search
 - [tiktok-scraper](https://github.com/toolzerhub/tiktok-scraper): public TikTok profiles, videos, comments and hashtags
+- [threads-scraper](https://github.com/toolzerhub/threads-scraper): public Threads profiles, posts, replies and search
 - [reddit-scraper](https://github.com/toolzerhub/reddit-scraper): public subreddits, posts, comments, search and user posts
 - [linkedin-scraper](https://github.com/toolzerhub/linkedin-scraper): public LinkedIn jobs, companies, profiles and posts
 - [google-maps-scraper](https://github.com/toolzerhub/google-maps-scraper): public Google Maps places, details and reviews
+- [facebook-ad-library-scraper](https://github.com/toolzerhub/facebook-ad-library-scraper): public Meta Ad Library ads by keyword or advertiser, with their videos and images
 
 ## Legal and responsible use
 
