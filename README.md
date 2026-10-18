@@ -6,7 +6,7 @@
 
 Scrape public Zillow listings, property details, Zestimates and price and tax history with Python, as JSON or CSV. No login, no API key, one script.
 
-> **Need this at scale?** The script is for learning and small jobs. The [ToolzerHub Zillow API](https://toolzerhub.com/apis/zillow?utm_source=github&utm_medium=readme&utm_campaign=zillow-scraper) returns the same data and more (listing agent and broker details, full property facts, bulk listing lists for rentals, pending, auction and new construction) as JSON from any server, with no blocks to handle. 100 free credits a month, no card needed.
+> **Need this at scale?** The script is for learning and small jobs. The [ToolzerHub Zillow API](https://toolzerhub.com/apis/zillow?utm_source=github&utm_medium=readme&utm_campaign=zillow-scraper) returns search results, property details, price history and bulk property lists (pending, auction, new construction and more) as JSON from any server, with no blocks to handle. 100 free credits a month, no card needed.
 
 ## What it scrapes
 
